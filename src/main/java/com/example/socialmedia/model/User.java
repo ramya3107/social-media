@@ -16,7 +16,6 @@ public class User {
   protected User() {
   }
 
-
   @Id
   @GeneratedValue
   private int id;
